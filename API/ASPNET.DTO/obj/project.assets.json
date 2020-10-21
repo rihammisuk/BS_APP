@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BS\\BSPROJECT\\ASPNET.DTO\\ASPNET.DTO.csproj",
+      "projectUniqueName": "D:\\BS\\BSPROJECT\\API\\ASPNET.DTO\\ASPNET.DTO.csproj",
       "projectName": "ASPNET.DTO",
-      "projectPath": "D:\\BS\\BSPROJECT\\ASPNET.DTO\\ASPNET.DTO.csproj",
+      "projectPath": "D:\\BS\\BSPROJECT\\API\\ASPNET.DTO\\ASPNET.DTO.csproj",
       "packagesPath": "C:\\Users\\riham\\.nuget\\packages\\",
-      "outputPath": "D:\\BS\\BSPROJECT\\ASPNET.DTO\\obj\\",
+      "outputPath": "D:\\BS\\BSPROJECT\\API\\ASPNET.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

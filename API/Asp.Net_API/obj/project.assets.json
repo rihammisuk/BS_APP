@@ -13078,11 +13078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BS\\BSPROJECT\\Asp.Net_API\\Asp.Net_API.csproj",
+      "projectUniqueName": "D:\\BS\\BSPROJECT\\API\\Asp.Net_API\\Asp.Net_API.csproj",
       "projectName": "Asp.Net_API",
-      "projectPath": "D:\\BS\\BSPROJECT\\Asp.Net_API\\Asp.Net_API.csproj",
+      "projectPath": "D:\\BS\\BSPROJECT\\API\\Asp.Net_API\\Asp.Net_API.csproj",
       "packagesPath": "C:\\Users\\riham\\.nuget\\packages\\",
-      "outputPath": "D:\\BS\\BSPROJECT\\Asp.Net_API\\obj\\",
+      "outputPath": "D:\\BS\\BSPROJECT\\API\\Asp.Net_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13101,11 +13101,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\BS\\BSPROJECT\\AspNET.BLL\\AspNET.BLL.csproj": {
-              "projectPath": "D:\\BS\\BSPROJECT\\AspNET.BLL\\AspNET.BLL.csproj"
+            "D:\\BS\\BSPROJECT\\API\\AspNET.BLL\\AspNET.BLL.csproj": {
+              "projectPath": "D:\\BS\\BSPROJECT\\API\\AspNET.BLL\\AspNET.BLL.csproj"
             },
-            "D:\\BS\\BSPROJECT\\AspNetdbContext\\AspNetdbContext.csproj": {
-              "projectPath": "D:\\BS\\BSPROJECT\\AspNetdbContext\\AspNetdbContext.csproj"
+            "D:\\BS\\BSPROJECT\\API\\AspNetdbContext\\AspNetdbContext.csproj": {
+              "projectPath": "D:\\BS\\BSPROJECT\\API\\AspNetdbContext\\AspNetdbContext.csproj"
             }
           }
         }
